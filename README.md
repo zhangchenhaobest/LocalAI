@@ -1,3 +1,29 @@
+# LocalAI
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+开源 AI 引擎，在任意硬件上运行 LLM、视觉、语音、图像、视频模型，无需 GPU。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <p align="center">
   <img src="docs/static/images/readme/hero.jpg" alt="LocalAI: your own AI, on your own hardware. Agents, documents and every kind of model, for you and your team. The LocalAI llama mascot wears sunglasses." width="900">
 </p>
